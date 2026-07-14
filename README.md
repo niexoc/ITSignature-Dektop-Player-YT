@@ -5,3 +5,6 @@
 
 ---
 Handling antivirus is your job!
+
+---
+Even though here I provide the batch and registry files for windows, the logic behind the batch file is working on any platform. Use AI and build it for linux or mac if you want!
